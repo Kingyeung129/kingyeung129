@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am King 👑, developer wannabe and a tech enthusiast. Welcome to my GitHub profile! 😄
+
 <!--
 **Kingyeung129/kingyeung129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Begin GitHub Readme Stats !-->
+| GitHub Stats | Top Languages |
+|--------------|---------------|
+| [![GitHub Stats](https://github-readme-stats-sigma-ten-22.vercel.app/api?username=kingyeung129&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![GitHub Stats](https://github-readme-stats-sigma-ten-22.vercel.app/api?username=kingyeung129&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) | [![Top Languages](https://github-readme-stats-sigma-ten-22.vercel.app/api/top-langs/?username=kingyeung129&hide=html,jupyter%20notebook,pug,css&langs_count=6&include_orgs=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Top Languages](https://github-readme-stats-sigma-ten-22.vercel.app/api/top-langs/?username=kingyeung129&hide=html,jupyter%20notebook,pug,css&langs_count=6&include_orgs=true&#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) |
+<!-- End GitHub Readme Stats !-->
